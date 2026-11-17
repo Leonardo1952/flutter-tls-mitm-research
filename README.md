@@ -1,5 +1,8 @@
 # flutter-tls-mitm-research
 
+<img width="640" height="338" alt="image" src="https://github.com/user-attachments/assets/52e0bc86-ef7f-4b86-a3d4-40ea606ab1bf" />
+
+
 Research lab for [GHSA-frr6-h895-5pxp](https://github.com/dart-lang/sdk/security/advisories/GHSA-frr6-h895-5pxp):
 Flutter's `dart:io` validates TLS certificates with its own bundled
 BoringSSL and, before Dart 3.13.7/Flutter 3.47.8, didn't block 8
