@@ -1,0 +1,8 @@
+# CA de teste (chaves privadas) e confdir do mitmproxy — nunca commitar
+certs/
+.mitmproxy-confdir/
+
+# venv isolado do mitmproxy
+.venv/
+
+__pycache__/
